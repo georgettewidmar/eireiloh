@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohrizihie.tamara-blaette.de/sitemap.xml
